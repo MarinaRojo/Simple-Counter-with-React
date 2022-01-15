@@ -1,6 +1,6 @@
 # How to start this project
 
-##### and install the npm package:
+##### Install the npm package:
 ```
 $ npm install
 ```
